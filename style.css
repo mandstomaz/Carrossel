@@ -1,0 +1,32 @@
+body {
+    background-color: #e9f5db;
+    padding: 20px;
+    font-family: Poppins;
+}
+
+h1 {
+    color: #31572c;
+    font-family: Cal Sans;
+}
+
+#carrossel1-Slides {
+    width: 80%;
+}
+
+#carrossel2-Slides {
+    width: 80%;
+}
+
+#carrossel3-Slides {
+    width: 80%;
+}
+
+#carrossel4-Slides {
+    width: 80%;
+}
+
+hr {
+    width: 40%;
+    background-color: #31572c
+}
+
